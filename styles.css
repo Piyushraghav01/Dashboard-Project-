@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Sedan SC";
+  src: url(SedanSC-Regular.ttf);
+}
+
+body {
+  font-family: "Sedan SC", serif;
+}
